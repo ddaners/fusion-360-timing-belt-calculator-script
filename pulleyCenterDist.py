@@ -1,4 +1,4 @@
-#Author-Dominik Daners
+#Author-ddaners
 #Description-Center distance calculator
 
 import adsk.core, adsk.fusion, adsk.cam, traceback
