@@ -1,6 +1,6 @@
 # Belt/chain center distance calculator
 
-## Instalation
+## Installation
 Download and copy the centerDistCalulator folder to your PC. The default location for scripts on Windows is "C:\Users\[USER]\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts", however the folder can be placed anywhere.
 
 In the design workspace, go to the tools tab, select 'Scripts and Add-Ins' and select your folder location.
