@@ -1,0 +1,19 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"ddaners",
+	"description":	{
+		"":	"Timing belt/sprocket center distance calculator.
+INPUTS
+- numPulleys [no units]: (Optional) Number of belts/chains to be calculated
+- z1(_n) [no units]: Number of teeth on first pulley/sprocket
+- z2(_n) [no units]: Number of teeth on second pulley/sprocket
+- z3(_n) [no units]: Number of teeth/linkages on belt/chain
+- pitch(_n) [mm]: Belt/chain pitch
+OUTPUTS:
+- d1(_n) [mm]: Pitch diameter of first pulley/sprocket
+- d2(_n) [mm]: Pitch diameter of second pulley/sprocket
+- cdist(_n) [mm]: Resulting ideal center distance"},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
