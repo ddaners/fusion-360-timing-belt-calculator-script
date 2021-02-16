@@ -1,15 +1,15 @@
 # Belt/chain center distance calculator
 
 ## Installation
-Download and copy the centerDistCalulator folder to your PC. The default location for scripts on Windows is "C:\Users\[USER]\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts", however the folder can be placed anywhere.
+Download and copy the "centerDistCalulator" folder to your PC. The default location for scripts on Windows is "C:\Users\[USER]\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts", however the folder can be placed anywhere.
 
-In the design workspace, go to the tools tab, select 'Scripts and Add-Ins' and select your folder location.
+In the design workspace, go to the tools tab, select "Scripts and Add-Ins", click on the + sign next to "My Scripts" and select your folder location.
 
 ![Dialog Image](https://raw.githubusercontent.com/ddaners/fusion-360-timing-belt-calculator-script/main/resources/folderSelect.PNG)
 
 
 ## Usage
-From the 'Scripts and Add-Ins' dialog (default keyboard shortcut to open this is shift-s), select the script and press run. This will automatically create the following paramaters:
+From the "Scripts and Add-Ins" dialog (default keyboard shortcut to open this is shift-s), select the script and press run. This will automatically create the following paramaters:
 
 ### Inputs
 - z1(_n) [no units]: Number of teeth on first pulley/sprocket
